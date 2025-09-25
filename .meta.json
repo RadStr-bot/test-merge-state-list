@@ -1,0 +1,21 @@
+{
+  "iri": "8d80a465-a081-4743-a825-b34db7f2aaf6",
+  "projectIri": "8d80a465-a081-4743-a825-b34db7f2aaf6",
+  "types": [
+    "http://dataspecer.com/resources/local/package"
+  ],
+  "userMetadata": {
+    "label": {
+      "cs": "test-merge-state-list"
+    },
+    "description": {}
+  },
+  "metadata": {
+    "creationDate": "2025-09-25T09:09:39.470Z",
+    "modificationDate": "2025-09-25T09:10:47.872Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedAt": "2025-09-25T09:10:50.969Z",
+  "_exportedBy": "http://localhost:3100"
+}
